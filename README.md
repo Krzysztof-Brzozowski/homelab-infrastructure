@@ -45,7 +45,7 @@ homelab-infrastructure/
 ├── security/
 ├── backup-strategy/
 └── docs/
-...
+```
 
 ## Planned Documentation
 
