@@ -45,3 +45,18 @@ homelab-infrastructure/
 ├── security/
 ├── backup-strategy/
 └── docs/
+
+## Planned Documentation
+
+- Network topology diagram
+- Docker services overview
+- Monitoring setup
+- Backup strategy
+- Security hardening checklist
+- Lessons learned
+- Future improvements
+
+## Project Status
+
+Active development — infrastructure, monitoring,
+and documentation are continuously being expanded.
