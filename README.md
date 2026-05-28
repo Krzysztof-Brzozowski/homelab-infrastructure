@@ -62,16 +62,24 @@ homelab-infrastructure/
 Active development — infrastructure, monitoring,
 and documentation are continuously being expanded.
 
-## Screenshots
+## Infrastructure Monitoring
 
-### Infrastructure Monitoring
+<p align="center">
+  <img src="screenshots/uptime-kuma-dashboard.png" width="900">
+</p>
 
-![Uptime Kuma](screenshots/uptime-kuma-dashboard.png)
+---
 
-### Docker Containers
+## Docker Containers
 
-![Docker Containers](screenshots/docker-containers.png)
+<p align="center">
+  <img src="screenshots/docker-containers.png" width="900">
+</p>
 
-### Linux System Monitoring
+---
 
-![Linux Monitoring](screenshots/linux-system-monitoring.png)
+## Linux System Monitoring
+
+<p align="center">
+  <img src="screenshots/linux-system-monitoring.png" width="900">
+</p>
